@@ -62,6 +62,7 @@
     }
   ],
   "profile": {
-    "name": "Anonymous User"
+    "name": "Anonymous User",
+    "address": "Street X number 123"
   }
 }

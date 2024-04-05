@@ -1,0 +1,67 @@
+{
+  "products": [
+    {
+      "id": 1,
+      "name": "Classic T-Shirt",
+      "description": "A timeless t-shirt for everyday wear, made from 100% cotton.",
+      "price": 150000,
+      "sizes": ["S", "M", "L", "XL"],
+      "colors": ["black", "white", "grey"],
+      "images": [
+        "images/classic-t-shirt-black.jpg",
+        "images/classic-t-shirt-white.jpg"
+      ]
+    },
+    {
+      "id": 2,
+      "name": "Denim Jeans",
+      "description": "Comfortable and durable denim jeans suitable for all seasons.",
+      "price": 350000,
+      "sizes": ["S", "M", "L", "XL"],
+      "colors": ["blue", "dark blue", "light blue"],
+      "images": [
+        "images/denim-jeans-blue.jpg",
+        "images/denim-jeans-dark-blue.jpg"
+      ]
+    },
+    {
+      "id": 3,
+      "name": "Leather Jacket",
+      "description": "High-quality leather jacket with a modern fit.",
+      "price": 750000,
+      "sizes": ["M", "L", "XL"],
+      "colors": ["black", "brown"],
+      "images": [
+        "images/leather-jacket-black.jpg",
+        "images/leather-jacket-brown.jpg"
+      ]
+    },
+    {
+      "id": 4,
+      "name": "Running Sneakers",
+      "description": "Lightweight and breathable sneakers for running and casual wear.",
+      "price": 650000,
+      "sizes": ["8", "9", "10", "11"],
+      "colors": ["black", "white", "red"],
+      "images": [
+        "images/running-sneakers-black.jpg",
+        "images/running-sneakers-white.jpg"
+      ]
+    },
+    {
+      "id": 5,
+      "name": "Formal Shirt",
+      "description": "Elegant formal shirt for business and special occasions.",
+      "price": 250000,
+      "sizes": ["S", "M", "L", "XL"],
+      "colors": ["white", "blue", "pink"],
+      "images": [
+        "images/formal-shirt-white.jpg",
+        "images/formal-shirt-blue.jpg"
+      ]
+    }
+  ],
+  "profile": {
+    "name": "Anonymous User"
+  }
+}
